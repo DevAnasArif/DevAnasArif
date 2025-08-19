@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anas Arif</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan who began this journey in 2023. I completed a diploma in Full Stack Web Development from Aptech, where I learned HTML, CSS, JavaScript, SQL, PHP, Laravel, Figma, and Bootstrap. In 2024, I completed that program and later joined SMIT, where I am currently pursuing another Full Stack diploma focused on the MERN stack. I've already reached the ReactJS phase.
 
-Alongside this, I started my Bachelor's in Information Technology at Sir Syed University in 2023, and I'm currently in my 3rd year (5th semester), having already cleared four semesters. My concepts in Object-Oriented Programming were solidified using C#, and I continued learning .NET technologies through online resources. I developed a full POS system using WinForms and later started working with ASP.NET Core MVC.
+Alongside this, I started my Bachelor's in Information Technology at Sir Syed University in 2023, and I'm currently in my 3rd year (5th semester), having already cleared four semesters. My concepts in Object-Oriented Programming were solidified using C#, and I continued learning .NET technologies through online resources. I developed a full POS system,e-commerce using WinForms and later started working with ASP.NET Core MVC. 
+
+Currently Doing Job In CODEBASE TECHNOLOGY. AS a Backend DEVELOPER in ASP.NET Core
 
 I'm also exploring the field of AI and have tried various AI-based platforms and tools such as Lovable, Builder, Replit, Locofy, and used AI coding assistants like Cursor, Blackbox, DeepSeek, ChatGPT, and Trae. For creative design, I’ve explored AI tools like Ideogram for logo generation.</h3>
 
